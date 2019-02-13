@@ -1,5 +1,6 @@
-Ryan England
-portalinme@me.com
+Name: Ryan England
+Email: portalinme@me.com
+GitHub Username: Ryan-England
 
 Add your info here:
 Adrian Miller
